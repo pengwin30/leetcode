@@ -1,3 +1,11 @@
+// Problem: 
+// Difficulty: Easy
+// Date: 2nd October 2024
+
+// Results:
+// Runtime: 0 ms, beats 100% of submissions
+// Memory Usage: 10.66 MB, beats 98.67% of submissions
+
 class Solution {
 public:
     int romanToInt(string s) {
