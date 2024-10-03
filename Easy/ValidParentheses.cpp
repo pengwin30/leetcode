@@ -1,3 +1,11 @@
+// Problem: 
+// Difficulty: Easy
+// Date: 3rd October 2024
+
+// Results:
+// Runtime: 0 ms, beats 100% of submissions
+// Memory Usage: 7.66 MB, beats 95.01% of submissions
+
 class Solution {
 public:
   bool isValid(string s) {
