@@ -6,6 +6,7 @@
 // Runtime: 3 ms, beats 70.98% of submissions
 // Memory Usage: 12.21 MB, beats 84.03% of submissions
 
+// Implemented Binary Search
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
