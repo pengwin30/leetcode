@@ -1,0 +1,15 @@
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\winar\Desktop\Codes\leetcode\C#\Calculator\obj\Debug\net9.0\ref\Calculator.dll
